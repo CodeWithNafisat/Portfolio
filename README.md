@@ -43,6 +43,25 @@ Welcome This repository showcases my **top AI and Machine Learning projects**, h
 
 ---
 
+### 4. [Intelligent Crop Recommendation System](https://github.com/CodeWithNafisat/CropSelectionPrediction) 🌾
+
+**Problem Solved:** Helping farmers choose the best crop for their soil and climate.
+
+* **The Problem:** Selecting the wrong crop can lead to low yields, financial loss, soil degradation, and inefficient resource use. Traditional methods often rely on intuition or generic guidelines.
+* **The Solution:** This **AI-driven decision support tool** recommends the most suitable crop based on soil nutrients (N, P, K), pH, temperature, humidity, and rainfall. It also provides **interpretable explanations** for each recommendation.
+
+**Technical Highlights:**
+
+* **Deep Learning Core:** PyTorch Feed-Forward Neural Network for crop classification.
+* **Interactive Streamlit Dashboard:** Users input soil and environmental data to get instant recommendations.
+* **Explainable AI:** SHAP visualizations highlight which factors influenced the recommendation.
+* **Smart UX:** “Reset” functionality ensures old inputs or predictions do not persist.
+
+**Technologies:** Python, Streamlit, PyTorch, Pandas, NumPy, SHAP, Matplotlib, Seaborn
+
+---
+
+
 ## 📈 Contact & Links
 - **GitHub Profile:** [https://github.com/CodeWithNafisat](https://github.com/CodeWithNafisat)  
 - **LinkedIn:** [https://www.linkedin.com/in/nafisat-abdulraheem-7a193b337](https://www.linkedin.com/in/nafisat-abdulraheem-7a193b337)  
