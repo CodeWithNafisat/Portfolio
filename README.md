@@ -8,6 +8,8 @@ Welcome! This repository showcases my **top AI and Machine Learning projects**, 
 
 ### 1. [Sentiment Analysis App](https://github.com/CodeWithNafisat/Sentiment-Analysis-App)
 
+**Built a deployed NLP system that classifies customer feedback in real time, helping businesses understand user satisfaction and prioritize improvements.**
+
 **Problem Solved:** Understanding customer sentiment at scale to reduce reputational risk.
 
 * **The Problem:** Organizations receive massive amounts of text feedback (reviews, ratings, social media comments). Manual analysis is impractical and delays response to negative trends.
@@ -26,6 +28,8 @@ Welcome! This repository showcases my **top AI and Machine Learning projects**, 
 ---
 
 ### 2. [Spam Detection App](https://github.com/CodeWithNafisat/SpamDetection)
+
+**Designed a spam detection model using NLP and supervised learning to protect users from unwanted messages, achieving strong precision-recall balance on imbalanced data.**
 
 **Problem Solved:** Filtering harmful or irrelevant messages to protect communication channels.
 
@@ -46,6 +50,8 @@ Welcome! This repository showcases my **top AI and Machine Learning projects**, 
 
 ### 3. [Profit Forecasting Dashboard](https://github.com/CodeWithNafisat/Profit-Forecasting-) ([Live App](https://jgebuwvu2exanggkxrrebs.streamlit.app/))
 
+**Developed a time-series forecasting dashboard that enables non-technical stakeholders to make data-driven business planning decisions.**
+
 **Problem Solved:** Enabling accurate financial planning and reducing operational uncertainty.
 
 * **The Problem:** Managers need reliable forecasts to make decisions on inventory, staffing, and sales goals, but complex data analysis is often inaccessible.
@@ -62,7 +68,9 @@ Welcome! This repository showcases my **top AI and Machine Learning projects**, 
 
 ---
 
-### 4. [ntelligent Crop Recommendation System](https://github.com/CodeWithNafisat/cropselectionprediction)
+### 4. [Intelligent Crop Recommendation System](https://github.com/CodeWithNafisat/cropselectionprediction)
+
+**Built an explainable ML system that recommends optimal crops based on soil and climate data, improving transparency through SHAP-based model explanations**
 
 **Problem Solved:** Reducing agricultural risk and improving resource utilization.
 
@@ -85,7 +93,7 @@ Welcome! This repository showcases my **top AI and Machine Learning projects**, 
 
 ---
 
-## 📈 Contact & Links
+## 📈  Connect With Me
 
 * **GitHub:** [https://github.com/CodeWithNafisat](https://github.com/CodeWithNafisat)
 * **LinkedIn:** [https://www.linkedin.com/in/nafisat-abdulraheem-7a193b337](https://www.linkedin.com/in/nafisat-abdulraheem-7a193b337)
