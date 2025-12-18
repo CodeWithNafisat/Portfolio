@@ -62,7 +62,7 @@ Welcome! This repository showcases my **top AI and Machine Learning projects**, 
 
 ---
 
-## **Intelligent Crop Recommendation System 🌾**
+### 4. [ntelligent Crop Recommendation System](https://github.com/CodeWithNafisat/cropselectionprediction)
 
 **Problem Solved:** Reducing agricultural risk and improving resource utilization.
 
