@@ -62,22 +62,26 @@ Welcome! This repository showcases my **top AI and Machine Learning projects**, 
 
 ---
 
-### 4. [Intelligent Crop Recommendation System](https://github.com/CodeWithNafisat/CropSelectionPrediction) 🌾
+## **Intelligent Crop Recommendation System 🌾**
 
 **Problem Solved:** Reducing agricultural risk and improving resource utilization.
 
-* **The Problem:** Choosing the wrong crop can lead to low yields, financial loss, and inefficient resource use.
-* **The Solution:** AI-driven system recommends the most suitable crop based on soil nutrients, pH, temperature, humidity, and rainfall, with interpretable explanations.
+**The Problem:** Choosing the wrong crop can lead to low yields, financial loss, and inefficient use of resources.
 
-**Technical Highlights:**
+**The Solution:** An AI-driven system recommends the most suitable crop based on soil nutrients, pH, temperature, humidity, and rainfall, with **interpretable explanations**.
+
+### **Technical Highlights**
 
 * **Feed-Forward Neural Network** in PyTorch for crop classification.
-* Interactive **Streamlit dashboard** for user input and instant recommendations.
+* **Interactive Streamlit Dashboard** for user input and instant recommendations.
 * **Explainable AI:** SHAP visualizations highlight key influencing factors.
 * **Accuracy:** 99%
 * **Decision Impact:** Guides farmers in selecting high-yield crops, preventing financial loss, and ensuring sustainable resource management.
 
-**Technologies:** Python, PyTorch, Streamlit, SHAP, Pandas, NumPy, Matplotlib, Seaborn
+**Technologies Used:** Python, PyTorch, Streamlit, SHAP, Pandas, NumPy, Matplotlib, Seaborn
+
+**Try it live:** [Intelligent Crop Recommendation System](https://cropselectionprediction-hkxsz7q8k4v5kqkcqbz6rz.streamlit.app/) ✅
+
 
 ---
 
