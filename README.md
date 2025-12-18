@@ -43,7 +43,8 @@ Welcome! This repository showcases my **top AI and Machine Learning projects**, 
 
 ---
 
-### 3. [Profit Forecasting Dashboard](https://github.com/CodeWithNafisat/Profit-Forecasting-)
+
+### 3. [Profit Forecasting Dashboard](https://github.com/CodeWithNafisat/Profit-Forecasting-) ([Live App](https://jgebuwvu2exanggkxrrebs.streamlit.app/))
 
 **Problem Solved:** Enabling accurate financial planning and reducing operational uncertainty.
 
@@ -86,6 +87,3 @@ Welcome! This repository showcases my **top AI and Machine Learning projects**, 
 * **LinkedIn:** [https://www.linkedin.com/in/nafisat-abdulraheem-7a193b337](https://www.linkedin.com/in/nafisat-abdulraheem-7a193b337)
 * **Email:** [nafisatabdulraheem@gmail.com](mailto:nafisatabdulraheem@gmail.com)
 
-
-
-Do you want me to do that?
