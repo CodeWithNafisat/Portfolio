@@ -97,5 +97,5 @@ Welcome! This repository showcases my **top AI and Machine Learning projects**, 
 
 * **GitHub:** [https://github.com/CodeWithNafisat](https://github.com/CodeWithNafisat)
 * **LinkedIn:** [https://www.linkedin.com/in/nafisat-abdulraheem-7a193b337](https://www.linkedin.com/in/nafisat-abdulraheem-7a193b337)
-* **Email:** [nafisatabdulraheem@gmail.com](mailto:nafisatabdulraheem@gmail.com)
+* **Email:** [nafisatabdulraheem@gmail.com](mailto:nafisatabdulraheem3@gmail.com)
 
